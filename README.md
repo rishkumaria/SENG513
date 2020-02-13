@@ -1,1 +1,3 @@
-# SENG513
+# vue-calculator
+
+npm run serve
